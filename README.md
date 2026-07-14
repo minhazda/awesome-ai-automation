@@ -54,6 +54,7 @@ For automations where the "logic" is a language model — routing, drafting, ext
 - **[Dify](https://github.com/langgenius/dify)** ![](https://img.shields.io/github/stars/langgenius/dify?style=flat&label=%E2%AD%90&color=444) — Production LLM app platform: RAG pipelines, agents, and workflows on a visual canvas with observability.
 - **[CrewAI](https://github.com/crewAIInc/crewAI)** ![](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat&label=%E2%AD%90&color=444) — Framework for orchestrating role-playing, collaborating AI agents. Popular for multi-agent task automation.
 - **[Flowise](https://github.com/FlowiseAI/Flowise)** ![](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=flat&label=%E2%AD%90&color=444) — Drag-and-drop builder for LLM chains and agents; the visual counterpart to writing LangChain by hand.
+- **[Open Agent Relay](https://github.com/ShakespeareLabs/open-agent-relay)** ![](https://img.shields.io/github/stars/ShakespeareLabs/open-agent-relay?style=flat&label=%E2%AD%90&color=444) — Reach for it when teammates or agents need to call a bounded local Claude Code, Codex, or automation capability without moving its execution context off the publisher's machine.
 
 ## AI browser agents
 
