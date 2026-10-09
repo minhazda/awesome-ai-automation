@@ -54,6 +54,7 @@ For automations where the "logic" is a language model — routing, drafting, ext
 - **[Dify](https://github.com/langgenius/dify)** ![](https://img.shields.io/github/stars/langgenius/dify?style=flat&label=%E2%AD%90&color=444) — Production LLM app platform: RAG pipelines, agents, and workflows on a visual canvas with observability.
 - **[CrewAI](https://github.com/crewAIInc/crewAI)** ![](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat&label=%E2%AD%90&color=444) — Framework for orchestrating role-playing, collaborating AI agents. Popular for multi-agent task automation.
 - **[Flowise](https://github.com/FlowiseAI/Flowise)** ![](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=flat&label=%E2%AD%90&color=444) — Drag-and-drop builder for LLM chains and agents; the visual counterpart to writing LangChain by hand.
+- **[OpenLeo](https://github.com/ancs21/openleo)** ![](https://img.shields.io/github/stars/ancs21/openleo?style=flat&label=%E2%AD%90&color=444) — A to-do board where agents do the cards on the board's own Linux computer, running on your ChatGPT plan; reach for it when you'd rather write a task than build a workflow.
 
 ## AI browser agents
 
